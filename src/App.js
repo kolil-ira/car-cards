@@ -10,15 +10,15 @@ function App() {
     {
       name: 'Audi',
       make: 'Audi',
-      color: 'Gray',
+      color: 'white',
       year: 2022,
       img: audi,
     },
     {
       name: 'BMW',
       make: 'BMW',
-      color: 'Dark Blue',
-      year: 2020,
+      color: 'Dark grey',
+      year: 2007,
       img: bmw,
     },
     {
@@ -31,8 +31,8 @@ function App() {
     {
       name: 'Suzuki',
       make: 'Suzuki',
-      color: 'Purple',
-      year: 2021,
+      color: 'red',
+      year: 2001,
       img: suzuki,
     },
   ];
